@@ -1,41 +1,35 @@
 {
   "files": {
-    "main.css": "/mouawia_sharedi/static/css/main.e0205146.css",
-    "main.js": "/mouawia_sharedi/static/js/main.b13e1edd.js",
+    "main.css": "/mouawia_sharedi/static/css/main.a655d50a.css",
+    "main.js": "/mouawia_sharedi/static/js/main.c89cd2df.js",
     "static/js/530.5b880127.chunk.js": "/mouawia_sharedi/static/js/530.5b880127.chunk.js",
     "static/js/619.d49d1466.chunk.js": "/mouawia_sharedi/static/js/619.d49d1466.chunk.js",
     "static/js/201.e50cd3f0.chunk.js": "/mouawia_sharedi/static/js/201.e50cd3f0.chunk.js",
     "static/js/859.b6c8be2b.chunk.js": "/mouawia_sharedi/static/js/859.b6c8be2b.chunk.js",
     "static/js/44.cf557243.chunk.js": "/mouawia_sharedi/static/js/44.cf557243.chunk.js",
     "static/js/786.b184b925.chunk.js": "/mouawia_sharedi/static/js/786.b184b925.chunk.js",
-    "static/css/831.880ab766.chunk.css": "/mouawia_sharedi/static/css/831.880ab766.chunk.css",
-    "static/js/831.afb5acd7.chunk.js": "/mouawia_sharedi/static/js/831.afb5acd7.chunk.js",
     "static/js/355.9c12fe3c.chunk.js": "/mouawia_sharedi/static/js/355.9c12fe3c.chunk.js",
     "static/js/274.c47f2edd.chunk.js": "/mouawia_sharedi/static/js/274.c47f2edd.chunk.js",
     "static/js/169.e70b9616.chunk.js": "/mouawia_sharedi/static/js/169.e70b9616.chunk.js",
-    "static/js/896.d7fe236e.chunk.js": "/mouawia_sharedi/static/js/896.d7fe236e.chunk.js",
     "static/media/shop4.png": "/mouawia_sharedi/static/media/shop4.1fb4bd976104c819fb89.png",
     "static/media/pizzaApp.png": "/mouawia_sharedi/static/media/pizzaApp.6281f1d98fd75461c92b.png",
     "static/media/myphoto.jpg": "/mouawia_sharedi/static/media/myphoto.7fbacb02b98c3fbb9a1b.jpg",
     "static/media/dashBoard.png": "/mouawia_sharedi/static/media/dashBoard.8e21d9e4c810fa46e292.png",
     "index.html": "/mouawia_sharedi/index.html",
-    "main.e0205146.css.map": "/mouawia_sharedi/static/css/main.e0205146.css.map",
-    "main.b13e1edd.js.map": "/mouawia_sharedi/static/js/main.b13e1edd.js.map",
+    "main.a655d50a.css.map": "/mouawia_sharedi/static/css/main.a655d50a.css.map",
+    "main.c89cd2df.js.map": "/mouawia_sharedi/static/js/main.c89cd2df.js.map",
     "530.5b880127.chunk.js.map": "/mouawia_sharedi/static/js/530.5b880127.chunk.js.map",
     "619.d49d1466.chunk.js.map": "/mouawia_sharedi/static/js/619.d49d1466.chunk.js.map",
     "201.e50cd3f0.chunk.js.map": "/mouawia_sharedi/static/js/201.e50cd3f0.chunk.js.map",
     "859.b6c8be2b.chunk.js.map": "/mouawia_sharedi/static/js/859.b6c8be2b.chunk.js.map",
     "44.cf557243.chunk.js.map": "/mouawia_sharedi/static/js/44.cf557243.chunk.js.map",
     "786.b184b925.chunk.js.map": "/mouawia_sharedi/static/js/786.b184b925.chunk.js.map",
-    "831.880ab766.chunk.css.map": "/mouawia_sharedi/static/css/831.880ab766.chunk.css.map",
-    "831.afb5acd7.chunk.js.map": "/mouawia_sharedi/static/js/831.afb5acd7.chunk.js.map",
     "355.9c12fe3c.chunk.js.map": "/mouawia_sharedi/static/js/355.9c12fe3c.chunk.js.map",
     "274.c47f2edd.chunk.js.map": "/mouawia_sharedi/static/js/274.c47f2edd.chunk.js.map",
-    "169.e70b9616.chunk.js.map": "/mouawia_sharedi/static/js/169.e70b9616.chunk.js.map",
-    "896.d7fe236e.chunk.js.map": "/mouawia_sharedi/static/js/896.d7fe236e.chunk.js.map"
+    "169.e70b9616.chunk.js.map": "/mouawia_sharedi/static/js/169.e70b9616.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0205146.css",
-    "static/js/main.b13e1edd.js"
+    "static/css/main.a655d50a.css",
+    "static/js/main.c89cd2df.js"
   ]
 }
